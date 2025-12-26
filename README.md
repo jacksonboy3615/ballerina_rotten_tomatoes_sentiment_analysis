@@ -6,19 +6,19 @@ Using VADER sentiment analysis and keyword extraction, this project explores whe
 ## 📊 Key Findings
 ### ⭐ Sentiment Overview
 
-I. 77.8% of Rotten Tomatoes audience reviews were classified as positive
-II. Neutral and negative reviews made up the remainder
+- 77.8% of Rotten Tomatoes audience reviews were classified as positive
+- Neutral and negative reviews made up the remainder
 
 *Note: Positive = VADER compound score > 0.05
 
 ### 🔎 Keyword Insights
 
-I. Top keywords were dominated by “Wick” and “John”, followed by action, great, and film
-II. The protagonist Eve Macarro did not appear in the Top 10 keywords
+- Top keywords were dominated by “Wick” and “John”, followed by action, great, and film
+- The protagonist Eve Macarro did not appear in the Top 10 keywords
 
 ### 🎯 Interpretation
 
-I. Although audiences praised the storyline and action sequences, Ballerina still appears to be strongly overshadowed by John Wick, suggesting brand dependency.
+- Although audiences praised the storyline and action sequences, Ballerina still appears to be strongly overshadowed by John Wick, suggesting brand dependency.
 
 ## 📅 Dataset
 
@@ -31,13 +31,13 @@ I. Although audiences praised the storyline and action sequences, Ballerina stil
 ## 🔍 Methodology
 
 ### Data Collection
-I. Web-scraped viewer reviews from Rotten Tomatoes using Selenium and exported them as CSV files.
+- Web-scraped viewer reviews from Rotten Tomatoes using Selenium and exported them as CSV files.
 (Source Link: https://www.rottentomatoes.com/m/ballerina_2025/reviews/all-audience)
 
 ### Text Processing
-I. Cleaning (lowercasing, removing symbols, stopwords)
-II. Tokenization
-III. Keyword frequency analysis
+- Cleaning (lowercasing, removing symbols, stopwords)
+- Tokenization
+- Keyword frequency analysis
 
 ### Sentiment Analysis
 I. VADER classifier
@@ -48,9 +48,9 @@ VADER Score Ranges:
 - Negative: compound < -0.05
 
 ### Visualization
-I. Donut chart for sentiment distribution
-II. Bar chart of Top 10 keywords
-III. Word cloud showing word prominence
+- Donut chart for sentiment distribution
+- Bar chart of Top 10 keywords
+- Word cloud showing word prominence
 
 <img width="1158" height="651" alt="Slide 1" src="https://github.com/user-attachments/assets/4b830b63-2959-44e7-934f-0076bf42e4e7" />
 
