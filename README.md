@@ -22,11 +22,11 @@ I. Although audiences praised the storyline and action sequences, Ballerina stil
 
 ## 📅 Dataset
 
-Source: Rotten Tomatoes (Audience Reviews)
-Total Reviews: 970
-Time Range: June 23, 2025 - December 19, 2025
-Format:	CSV file
-Libraries: Selenium, Pandas, VADER, and WordCloud
+- Source: Rotten Tomatoes (Audience Reviews)
+- Total Reviews: 970
+- Time Range: June 23, 2025 - December 19, 2025
+- Format:	CSV file
+- Libraries: Selenium, Pandas, VADER, and WordCloud
 
 ## 🔍 Methodology
 
