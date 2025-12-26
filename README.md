@@ -60,10 +60,10 @@ VADER Score Ranges:
 
 ## Solutions
 
-I. Develop a Miniseries Centered on Eve Macarro:
+**I. Develop a Miniseries Centered on Eve Macarro:**
 The series could explore events after John Wick: Chapter 4, following the fallout from John Wick’s death and deepening Eve’s backstory and motivations.
 
-II. Plan a Comic Book Series About Assassin(s) Revenging Eve Macarro:
+**II. Plan a Comic Book Series About Assassin(s) Revenging Eve Macarro:**
 Before committing to a sequel series or film, releasing a comic series would both deepen audiences’ understanding of Eve Macarro and give the production team room to expand the John Wick universe.
 
 ## 🔗 Connect with Me
